@@ -17,5 +17,5 @@ $unit = "円";
 
 //出力
 echo $stdin.$unit."の税込みは".floor($pretax_price).$unit."です";
-echo "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+
 ?>
