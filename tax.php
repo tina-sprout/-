@@ -7,9 +7,10 @@ define('tax',1.08);
 $stdin = trim(fgets(STDIN));  
 var_dump($stdin);
 
-//pretax_priceにrand*taxの結果を代入
-$pretax_price = $price * tax;
+//pretax_priceに入力された数値と税を掛けた値を代入
+$pretax_price = $stdin * tax;
 
+//円
 $unit = "円";
 
 //出力
