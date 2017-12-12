@@ -23,5 +23,5 @@ switch($a) {
     default:
         print'$aの値は0~9以外の値です';
         break;
-
+a
 ?>
