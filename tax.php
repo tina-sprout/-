@@ -3,7 +3,7 @@
 //taxに1.08(消費税)を代入
 define('tax',1.08);
 
-//入力
+//入力a
 $stdin = trim(fgets(STDIN));  
 var_dump($stdin);
 
