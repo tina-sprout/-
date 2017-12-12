@@ -24,5 +24,5 @@ switch($a) {
         print'$aの値は0~9以外の値です';
         break;
 }
-
+echo a
 ?>
